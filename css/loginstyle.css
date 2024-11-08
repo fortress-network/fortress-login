@@ -100,6 +100,11 @@ body {
     font-weight: 600;
 }
 
+.wrapper .btn:hover {
+    background: transparent;
+    backdrop-filter: blur(20px);
+}
+
 .wrapper .register-link {
     font-size: 14.5px;
     text-align: center;
